@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  15 SEP 2017 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  8 JAN 2018 15:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -214,246 +214,117 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 
-Package natbib Warning: Citation `Francis:2005aa' on page 1 undefined on input 
-line 99.
-
-
-Package natbib Warning: Citation `Welsh:2016aa' on page 1 undefined on input li
-ne 99.
-
-
-Package natbib Warning: Citation `Bodman:2016aa' on page 1 undefined on input l
-ine 99.
-
-
 Package natbib Warning: Citation `Boyajian:2016aa' on page 1 undefined on input
  line 99.
 
 
-Package natbib Warning: Citation `de-Grijs:2007aa' on page 1 undefined on input
- line 102.
-
-
-Package natbib Warning: Citation `Brasser:2015aa' on page 1 undefined on input 
-line 105.
-
-
-Package natbib Warning: Citation `Dones:2015aa' on page 1 undefined on input li
-ne 110.
-
-
-Package natbib Warning: Citation `Dybczynski:2015aa' on page 1 undefined on inp
-ut line 110.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 111.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 111.
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-
-Package natbib Warning: Citation `Moeckel:2011aa' on page 2 undefined on input 
-line 116.
-
-
-Package natbib Warning: Citation `Kouwenhoven:2010aa' on page 2 undefined on in
-put line 116.
-
-
-Package natbib Warning: Citation `Perets:2012aa' on page 2 undefined on input l
-ine 116.
-
-
-Package natbib Warning: Citation `Spurzem:2009aa' on page 2 undefined on input 
-line 120.
-
-
-Package natbib Warning: Citation `Wang:2015ab' on page 2 undefined on input lin
-e 120.
-
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
 
-LaTeX Warning: Reference `section:method' on page 2 undefined on input line 122
-.
-
-
-LaTeX Warning: Reference `section:results' on page 2 undefined on input line 12
-2.
-
-
-LaTeX Warning: Reference `section:conclusions' on page 2 undefined on input lin
-e 122.
-
-
-Package natbib Warning: Citation `Wang:2015ab' on page 2 undefined on input lin
-e 129.
-
-
-Package natbib Warning: Citation `Eggleton:1989aa' on page 2 undefined on input
- line 129.
-
-
-Package natbib Warning: Citation `Hurley:2000aa' on page 2 undefined on input l
-ine 129.
-
-<time_used.pdf, id=22, 1156.32pt x 650.43pt>
+<time_used.pdf, id=22, 1084.05pt x 650.43pt>
 File: time_used.pdf Graphic file (type pdf)
  <use time_used.pdf>
-Package pdftex.def Info: time_used.pdf used on input line 139.
-(pdftex.def)             Requested size: 252.0pt x 141.74527pt.
+Package pdftex.def Info: time_used.pdf used on input line 140.
+(pdftex.def)             Requested size: 252.0pt x 151.19363pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 139--140
+Overfull \hbox (12.0pt too wide) in paragraph at lines 140--141
  [][] 
  []
 
-
-Package natbib Warning: Citation `Wang:2015ab' on page 2 undefined on input lin
-e 144.
-
-
-LaTeX Warning: Reference `fig:time_used' on page 2 undefined on input line 144.
-
-
-<v2_r.png, id=23, 1156.32pt x 650.43pt>
+<v2_r.png, id=23, 1245.65375pt x 754.82pt>
 File: v2_r.png Graphic file (type png)
  <use v2_r.png>
-Package pdftex.def Info: v2_r.png used on input line 153.
-(pdftex.def)             Requested size: 252.0pt x 141.74527pt.
+Package pdftex.def Info: v2_r.png used on input line 154.
+(pdftex.def)             Requested size: 252.0pt x 152.70049pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 153--154
+Overfull \hbox (12.0pt too wide) in paragraph at lines 154--155
  [][] 
  []
 
-
-LaTeX Warning: Reference `table:initial' on page 2 undefined on input line 158.
-
-
-
-Package natbib Warning: Citation `Plummer:1911aa' on page 2 undefined on input 
-line 158.
-
-
-LaTeX Warning: Reference `fig:v2_r' on page 2 undefined on input line 158.
-
-
-LaTeX Warning: Reference `table:tidal' on page 2 undefined on input line 158.
-
-
-Package natbib Warning: Citation `Plummer:1911aa' on page 2 undefined on input 
-line 173.
-
-
-Package natbib Warning: Citation `Plummer:1911aa' on page 2 undefined on input 
-line 220.
-
-
-Package natbib Warning: Citation `Plummer:1911aa' on page 2 undefined on input 
-line 220.
-
-[2 <./time_used.pdf>] <lagrALL.pdf, id=68, 1156.32pt x 650.43pt>
-File: lagrALL.pdf Graphic file (type pdf)
-
-<use lagrALL.pdf>
-Package pdftex.def Info: lagrALL.pdf used on input line 237.
+[2 <./time_used.pdf>] <PE.pdf, id=66, 1156.32pt x 650.43pt>
+File: PE.pdf Graphic file (type pdf)
+ <use PE.pdf>
+Package pdftex.def Info: PE.pdf used on input line 224.
 (pdftex.def)             Requested size: 252.0pt x 141.74527pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 237--238
+Overfull \hbox (12.0pt too wide) in paragraph at lines 224--225
  [][] 
  []
 
-<lagrMASSLESS.pdf, id=69, 1156.32pt x 650.43pt>
-File: lagrMASSLESS.pdf Graphic file (type pdf)
- <use lagrMASSLESS.pdf>
-Package pdftex.def Info: lagrMASSLESS.pdf used on input line 244.
+<lagrComparing.pdf, id=67, 1042.89626pt x 608.2725pt>
+File: lagrComparing.pdf Graphic file (type pdf)
+ <use lagrComparing.pdf>
+Package pdftex.def Info: lagrComparing.pdf used on input line 237.
+(pdftex.def)             Requested size: 201.59692pt x 117.57777pt.
+
+<lagr2000st.pdf, id=68, 1051.93pt x 615.29875pt>
+File: lagr2000st.pdf Graphic file (type pdf)
+ <use lagr2000st.pdf>
+Package pdftex.def Info: lagr2000st.pdf used on input line 245.
+(pdftex.def)             Requested size: 201.59692pt x 117.91257pt.
+
+<avmass.pdf, id=69, 1156.32pt x 650.43pt>
+File: avmass.pdf Graphic file (type pdf)
+ <use avmass.pdf>
+Package pdftex.def Info: avmass.pdf used on input line 254.
 (pdftex.def)             Requested size: 252.0pt x 141.74527pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 244--245
+Overfull \hbox (12.0pt too wide) in paragraph at lines 254--255
  [][] 
  []
 
-
-LaTeX Warning: Reference `fig:lagrALL' on page 3 undefined on input line 249.
-
-
-LaTeX Warning: Reference `fig:lagrMASSLESS' on page 3 undefined on input line 2
-49.
-
-
-Package natbib Warning: Citation `Wang:2015ab' on page 3 undefined on input lin
-e 253.
-
-
-Package natbib Warning: Citation `Zheng:2015aa' on page 3 undefined on input li
-ne 255.
-
-<Ns_c.png, id=70, 1156.32pt x 650.43pt>
+[3 <./v2_r.png> <./PE.pdf> <./lagrComparing.pdf> <./lagr2000st.pdf>]
+<Ns_c.png, id=127, 1020.81375pt x 610.28pt>
 File: Ns_c.png Graphic file (type png)
  <use Ns_c.png>
-Package pdftex.def Info: Ns_c.png used on input line 261.
-(pdftex.def)             Requested size: 252.0pt x 141.74527pt.
+Package pdftex.def Info: Ns_c.png used on input line 270.
+(pdftex.def)             Requested size: 252.0pt x 150.65132pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 261--262
+Overfull \hbox (12.0pt too wide) in paragraph at lines 270--271
  [][] 
  []
 
-[3 <./v2_r.png>]
+<Ns_c10.pdf, id=128, 1156.32pt x 650.43pt>
+File: Ns_c10.pdf Graphic file (type pdf)
+ <use Ns_c10.pdf>
+Package pdftex.def Info: Ns_c10.pdf used on input line 279.
+(pdftex.def)             Requested size: 252.0pt x 141.74527pt.
 
-Package natbib Warning: Citation `heggie:1975aa' on page 4 undefined on input l
-ine 271.
-
-
-LaTeX Warning: Reference `fig:Ns_c' on page 4 undefined on input line 273.
-
-[4 <./lagrALL.pdf> <./lagrMASSLESS.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./lagrMASSLESS.pdf): PDF inc
-lusion: multiple pdfs with page group included in a single page
-> <./Ns_c.png>]
-
-Package natbib Warning: Citation `Hao:2013aa' on page 5 undefined on input line
- 304.
+Overfull \hbox (12.0pt too wide) in paragraph at lines 279--280
+ [][] 
+ []
 
 
-Package natbib Warning: Citation `Shara:2016aa' on page 5 undefined on input li
-ne 304.
+Underfull \vbox (badness 2042) has occurred while \output is active []
 
+ [4 <./avmass.pdf> <./Ns_c.png> <./Ns_c10.pdf
 
-Package natbib Warning: Citation `Portegies-Zwart:2013aa' on page 5 undefined o
-n input line 304.
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Ns_c10.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+>] [5
 
-
-Package natbib Warning: Citation `Pelupessy:2013aa' on page 5 undefined on inpu
-t line 304.
-
-
-Package natbib Warning: Citation `Cai:2016aa' on page 5 undefined on input line
- 304.
-
-
-Package natbib Warning: Citation `Cai:2015aa' on page 5 undefined on input line
- 304.
-
-[5
-
-]
-./paper.tex:328: Undefined control sequence.
-l.328 \phantomsection
-                     
+] (./paper.bbl
+./paper.bbl:6: Undefined control sequence.
+l.6   2007, \apj
+                , 662, 504
 ? s
 OK, entering \scrollmode...
-(./paper.bbl
-./paper.bbl:5: Undefined control sequence.
-l.5 ...an}, E.~H.~L., \& {Quillen}, A. 2016, \apjl
+./paper.bbl:10: Undefined control sequence.
+l.10 ...man} E.~H.~L.,  {Quillen} A.,  2016, \apjl
                                                   , 819, L34
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -461,17 +332,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:16: Undefined control sequence.
-l.16   \mnras
-             , 457, 3988
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Runaway argument?
+\protect \citeauthoryear {{Boyajian}, {LaCourse}, {Rappaport}, {Fabry\ETC.
+./paper.bbl:27: Paragraph ended before \@lbibitem was complete.
+<to be read again> 
+                   \par 
+l.27 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-./paper.bbl:19: Undefined control sequence.
-l.19 ...ser}, R., \& {Schwamb}, M.~E. 2015, \mnras
+./paper.bbl:30: Undefined control sequence.
+l.30 {Brasser} R.,  {Schwamb} M.~E.,  2015, \mnras
                                                   , 446, 3788
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -479,17 +352,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:24: Undefined control sequence.
-l.24   {Spurzem}, R. 2015, \apjs
-                                , 219, 31
+./paper.bbl:35: Undefined control sequence.
+l.35   R.,  2015, \apjs
+                       , 219, 31
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:32: Undefined control sequence.
-l.32 ...rijs}, R., \& {Parmentier}, G. 2007, \cjaa
+./paper.bbl:47: Undefined control sequence.
+l.47 {de Grijs} R.,  {Parmentier} G.,  2007, \cjaa
                                                   , 7, 155
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -497,8 +370,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:36: Undefined control sequence.
-l.36 ...., {Kaib}, N., \& {Rickman}, H. 2015, \ssr
+./paper.bbl:51: Undefined control sequence.
+l.51 ...,  {Kaib} N.,    {Rickman} H.,  2015, \ssr
                                                   , 197, 191
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -506,8 +379,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:39: Undefined control sequence.
-l.39 ...~A., \& {Kr{\'o}likowska}, M. 2015, \mnras
+./paper.bbl:56: Undefined control sequence.
+l.56 ....~A.,  {Kr{\'o}likowska} M.,  2015, \mnras
                                                   , 448, 588
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -515,8 +388,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:43: Undefined control sequence.
-l.43 ...chett}, M.~J., \& {Tout}, C.~A. 1989, \apj
+./paper.bbl:60: Undefined control sequence.
+l.60 ...chett} M.~J.,    {Tout} C.~A.,  1989, \apj
                                                   , 347, 998
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -524,54 +397,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:46: Undefined control sequence.
-l.46 {Francis}, P.~J. 2005, \apj
-                                , 635, 1348
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./paper.bbl:49: Undefined control sequence.
-l.49 ...}, M.~B.~N., \& {Spurzem}, R. 2013, \mnras
-                                                  , 433, 867
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./paper.bbl:52: Undefined control sequence.
-l.52 {Heggie}, D.~C. 1975, \mnras
-                                 , 173, 729
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./paper.bbl:55: Undefined control sequence.
-l.55 ...ols}, O.~R., \& {Tout}, C.~A. 2000, \mnras
-                                                  , 315, 543
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./paper.bbl:60: Undefined control sequence.
-l.60   \mnras
-             , 404, 1835
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 ./paper.bbl:63: Undefined control sequence.
-l.63 ...ckel}, N., \& {Clarke}, C.~J. 2011, \mnras
-                                                  , 415, 1179
+l.63 {Francis} P.~J.,  2005, \apj
+                                 , 635, 1348
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -579,16 +407,61 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ./paper.bbl:67: Undefined control sequence.
-l.67 ...}, A., {de Vries}, N., {et~al.} 2013, \aap
-                                                  ,
+l.67 ...} M.~B.~N.,    {Spurzem} R.,  2013, \mnras
+                                                  , 433, 867
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:71: Undefined control sequence.
-l.71 ...~B., \& {Kouwenhoven}, M.~B.~N. 2012, \apj
+./paper.bbl:72: Undefined control sequence.
+l.72   \mnras
+             , 363, 293
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./paper.bbl:76: Undefined control sequence.
+l.76 ...ols} O.~R.,    {Tout} C.~A.,  2000, \mnras
+                                                  , 315, 543
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./paper.bbl:81: Undefined control sequence.
+l.81 ...almberg} D.,    {Kroupa} P.,  2010, \mnras
+                                                  , 404, 1835
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./paper.bbl:85: Undefined control sequence.
+l.85 {Moeckel} N.,  {Clarke} C.~J.,  2011, \mnras
+                                                 , 415, 1179
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./paper.bbl:94: Undefined control sequence.
+l.94 ....,    {Portegies Zwart} S.~F.,  2013, \aap
+                                                  , 557, A84
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./paper.bbl:98: Undefined control sequence.
+l.98 ....~B.,  {Kouwenhoven} M.~B.~N.,  2012, \apj
                                                   , 750, 83
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -596,17 +469,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:74: Undefined control sequence.
-l.74 {Plummer}, H.~C. 1911, \mnras
-                                  , 71, 460
+./paper.bbl:101: Undefined control sequence.
+l.101 {Plummer} H.~C.,  1911, \mnras
+                                    , 71, 460
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:83: Undefined control sequence.
-l.83 ...y}, J.~R., \& {Mardling}, R.~A. 2016, \apj
+./paper.bbl:111: Undefined control sequence.
+l.111 ...} J.~R.,    {Mardling} R.~A.,  2016, \apj
                                                   , 816, 59
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -614,8 +487,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:87: Undefined control sequence.
-l.87 ...gie}, D.~C., \& {Lin}, D.~N.~C. 2009, \apj
+./paper.bbl:115: Undefined control sequence.
+l.115 ...ie} D.~C.,    {Lin} D.~N.~C.,  2009, \apj
                                                   ,
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -623,27 +496,18 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:93: Undefined control sequence.
-l.93   M.~B. 2015, \mnras
-                         , 449, 3543
+./paper.bbl:121: Undefined control sequence.
+l.121   M.~B.,  2015, \mnras
+                            , 449, 3543
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./paper.bbl:96: Undefined control sequence.
-l.96 ...h}, B.~Y., \& {Montgomery}, S. 2016, \pasp
+./paper.bbl:125: Undefined control sequence.
+l.125 ...sh} B.~Y.,  {Montgomery} S.,  2016, \pasp
                                                   , 128, 064201
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./paper.bbl:100: Undefined control sequence.
-l.100 ...en}, M.~B.~N., \& {Wang}, L. 2015, \mnras
-                                                  , 453, 2759
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -657,24 +521,16 @@ Package natbib Warning: There were undefined citations.
 [6
 
 
-] (./paper.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
-
-LaTeX Warning: There were undefined references.
-
+] (./paper.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2708 strings out of 493089
- 35034 string characters out of 6134843
- 113407 words of memory out of 5000000
- 6152 multiletter control sequences out of 15000+600000
+ 2728 strings out of 493089
+ 35308 string characters out of 6134843
+ 111234 words of memory out of 5000000
+ 6169 multiletter control sequences out of 15000+600000
  14495 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,15n,34p,1058b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -683,24 +539,26 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper.pdf (6 pages, 608359 bytes).
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on paper.pdf (6 pages, 985132 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 287 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

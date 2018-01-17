@@ -1,47 +1,53 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paper.aux
-The style file: apj.bst
+The style file: mn2e.bst
 Database file #1: Qi.bib
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 24 entries,
-            3085 wiz_defined-function locations,
-            824 strings with 9481 characters,
-and the built_in function-call counts, 11867 in all, are:
-= -- 998
-> -- 857
-< -- 11
-+ -- 287
-- -- 309
-* -- 1007
-:= -- 2216
-add.period$ -- 24
-call.type$ -- 24
-change.case$ -- 167
-chr.to.int$ -- 24
-cite$ -- 24
-duplicate$ -- 462
-empty$ -- 697
-format.name$ -- 345
-if$ -- 2362
+Warning--you've exceeded 250, the entry-string-size, for entry Boyajian:2016aa
+while executing--line 1184 of file mn2e.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry Boyajian:2016aa
+while executing--line 1223 of file mn2e.bst
+*Please notify the bibstyle designer*
+You've used 25 entries,
+            2601 wiz_defined-function locations,
+            713 strings with 8786 characters,
+and the built_in function-call counts, 12768 in all, are:
+= -- 1192
+> -- 1086
+< -- 12
++ -- 379
+- -- 379
+* -- 1290
+:= -- 2366
+add.period$ -- 0
+call.type$ -- 25
+change.case$ -- 226
+chr.to.int$ -- 25
+cite$ -- 25
+duplicate$ -- 287
+empty$ -- 424
+format.name$ -- 418
+if$ -- 2296
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 23
-newline$ -- 76
-num.names$ -- 97
-pop$ -- 182
+missing$ -- 25
+newline$ -- 79
+num.names$ -- 102
+pop$ -- 171
 preamble$ -- 1
-purify$ -- 167
+purify$ -- 250
 quote$ -- 0
-skip$ -- 396
+skip$ -- 398
 stack$ -- 0
-substring$ -- 543
-swap$ -- 10
-text.length$ -- 1
-text.prefix$ -- 0
+substring$ -- 570
+swap$ -- 35
+text.length$ -- 2
+text.prefix$ -- 125
 top$ -- 0
-type$ -- 216
+type$ -- 225
 warning$ -- 0
-while$ -- 97
+while$ -- 101
 width$ -- 0
-write$ -- 243
+write$ -- 253
+(There were 2 warnings)
